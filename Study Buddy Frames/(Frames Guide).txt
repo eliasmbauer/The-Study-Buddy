@@ -1,0 +1,19 @@
+The SD card does NOT read from this folder, these images are only examples. The original sprites are represented in the esp32 script as byte arrays. 
+if you would like to alter or change the sprites displayed on the screen, please edit the program and change the byte arrays (present at the start of the program)
+you can convert 128x64 images into byte arrays using this link: https://javl.github.io/image2cpp/
+
+There are some missing frames that will need to be implemented in the future,
+these frames are:
+
+eatFrame1
+eatFrame2
+eatFrame3
+eatFrame4
+petFrame1
+petFrame2
+petFrame3
+playFrame1
+playFrame2
+playFrame3
+playFrame4
+playFrame5
